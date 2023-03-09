@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/product-preview-card-component-main-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PPCC"
+	}
+}
